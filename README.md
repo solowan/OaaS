@@ -6,16 +6,16 @@ This service does not work with FWaaS. It is possible to enable OaaS or FWaaS wi
 
 The wiki includes the documentation of the project. The table of contents is the following:
 
-1. [Home](https://github.com/carlosv5/Oaas-network/wiki/Home)
+1. [Home](https://github.com/solowan/OaaS/wiki/Home)
 
-2. [SoloWAN](https://github.com/carlosv5/Oaas-network/wiki/SoloWAN)
+2. [SoloWAN](https://github.com/solowan/OaaS/wiki/SoloWAN)
 
-3. [Installation] (https://github.com/carlosv5/Oaas-network/wiki/Installation)
+3. [Installation] (https://github.com/solowan/OaaS/wiki/Installation)
 
-4. [Script options](https://github.com/carlosv5/Oaas-network/wiki/Script-options)
+4. [Script options](https://github.com/solowan/OaaS/wiki/Script-options)
 
-5. [Optimization parameters](https://github.com/carlosv5/Oaas-network/wiki/Optimization-parameters)
+5. [Optimization parameters](https://github.com/solowan/OaaS/wiki/Optimization-parameters)
 
-6. [User guide](https://github.com/carlosv5/Oaas-network/wiki/User-guide)
+6. [User guide](https://github.com/solowan/OaaS/wiki/User-guide)
 
-7. [References](https://github.com/carlosv5/Oaas-network/wiki/References)
+7. [References](https://github.com/solowan/OaaS/wiki/References)
